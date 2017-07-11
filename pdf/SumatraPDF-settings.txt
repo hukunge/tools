@@ -1,0 +1,516 @@
+﻿# For documentation, see http://www.sumatrapdfreader.org/settings3.2.html
+
+MainWindowBackground = #80fff200
+EscToExit = false
+ReuseInstance = false
+UseSysColors = false
+RestoreSession = true
+
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #ffffff
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+]
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
+	UseFixedPageUI = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+ExternalViewers [
+]
+ShowMenubar = true
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = true
+UiLanguage = cn
+ShowToolbar = true
+ShowFavorites = false
+AssociateSilently = false
+CheckForUpdates = true
+RememberOpenedFiles = true
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+WindowState = 1
+WindowPos = 203 145 1369 814
+ShowToc = true
+SidebarDx = 278
+TocDy = 0
+ShowStartPage = true
+UseTabs = true
+
+FileStates [
+	[
+		FilePath = C:\Users\Kellan\Desktop\robot new.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 6 56
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 203 145 1369 814
+		ShowToc = true
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Kellan\Downloads\scaner@wm-motor.com_20160516_180820.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 46 23 1369 1043
+		ShowToc = false
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Kellan\Desktop\Stream SDK for Android V1.3.2\Stream SDK for Android Developmnent Guide.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 496
+		PageNo = 16
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 46 23 1369 1043
+		ShowToc = true
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\doc\learn\深入理解Java虚拟机 JVM高级特性与最佳实践.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 46 23 1369 1043
+		ShowToc = true
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\doc\learn\深入Java虚拟机(原书第二版清晰版).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 46 23 1369 1043
+		ShowToc = true
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\doc\learn\Java虚拟机（第二版）.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 46 23 1369 1043
+		ShowToc = true
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\doc\learn\Head First设计模式（中文版）.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 841
+		PageNo = 41
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 46 23 1369 1043
+		ShowToc = true
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\doc\learn\Head First Java%28第2版%29.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 46 23 1369 1043
+		ShowToc = false
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\doc\learn\《Java核心技术 卷II 高级特性(原书第9版)》.(（美）Cay S. Horstmann,Gary Cornell).[PDF]@ckook.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 46 23 1369 1043
+		ShowToc = true
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\doc\learn\_改善既有代码的设计[高清版].pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 46 23 1369 1043
+		ShowToc = true
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\doc\learn\[www.java1234.com]Java核心技术 卷1 基础知识 原书第9版-.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 46 23 1369 1043
+		ShowToc = true
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\doc\learn\%5Bwww.java1234.com%5DJava从入门到精通 第三版.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 46 23 1369 1043
+		ShowToc = false
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Kellan\Documents\WeChat Files\kungehu\Attachment\搜索引擎关键技术.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 516
+		PageNo = 20
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 46 23 1369 1043
+		ShowToc = false
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\doc\learn\深入理解Java虚拟机——JVM高级特性与最佳实践(第2版).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 27
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 46 23 1369 1043
+		ShowToc = true
+		SidebarDx = 278
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Kellan\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\VGVOAHRW\致员工的一封信.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 554 0 811 1050
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Kellan\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\VGVOAHRW\Letter to Employees.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 554 0 811 1050
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Kellan\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\VGVOAHRW\Announcement 201611.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 554 0 811 1050
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Kellan\Downloads\Objective-C\好学的 Objective-C .pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 331
+		PageNo = 92
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 406 199 811 791
+		ShowToc = true
+		SidebarDx = 480
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 9 24 59
+	]
+	[
+		FilePath = C:\Users\Kellan\Downloads\Head First Java%28第2版%29.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 61
+		PageNo = 494
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 406 199 811 791
+		ShowToc = false
+		SidebarDx = 480
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Kellan\Downloads\[www.java1234.com]Java核心技术 卷1 基础知识 原书第9版-.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 376
+		PageNo = 231
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 406 199 811 791
+		ShowToc = true
+		SidebarDx = 480
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Kellan\Downloads\%5Bwww.java1234.com%5DJava从入门到精通 第三版.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 286
+		PageNo = 357
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 406 199 811 791
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Kellan\Downloads\AgileJava\softhy.net\Agile Java 高清中文版\Agile 01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 46
+		PageNo = 7
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 406 199 811 791
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 314
+
+# Settings after this line have not been recognized by the current version

@@ -1,0 +1,162 @@
+
+      ╭═══════════════════════════╮      
+╭══┤            欢迎使用【一丝冰凉】汉化软件              ├══╮
+║    ╰═══════════════════════════╯    ║
+║                  一丝冰凉, 不懈努力, 追求完美!                   ║
+╟─────────────────────────────────╢
+║               黑狼技术论坛：原创汉化、绿化软件基地               ║
+║                        http://bbs.77ie.com                       ║
+╰─────────────────────────────────╯
+                                                                       
+＃〓〓〓〓§〓〓〓〓〓〓〓▓§【软件信息】§▓〓〓〓〓〓〓〓§〓〓〓〓＃
+
+    软件名称：Notepad2 V4.0.22-Final 绿色汉化增强版 By_jieorlin
+    简要说明：系统记事本替代软件
+    应用平台：Windows 98/NT/2000/XP/2003/Vista
+    软件性质：免费软件
+    官方网站：http://www.flos-freeware.ch
+    制作日期：2009年7月28日
+    汉化作者：【一丝冰凉】-jieorlin
+    电子邮件：690085898@QQ.com
+    文件 MD5：HA-Notepad2.exe           MD5: A0D1E3C6297578A5BB6D96067432CEA5
+              记事本自动替换还原.exe    MD5: 1F89831557CC02DEDFA30C95E69A110E
+
+＃〓〓〓〓§〓〓〓〓〓〓〓▓§【软件简介】§▓〓〓〓〓〓〓〓§〓〓〓〓＃
+
+   Notepad2是一个外观类似系统记事本的文本编辑工具，但比记事本有了很大的增强。
+   此版本为正式版，进一步修正了相关细节问题@jieorlin
+   
+1 自定义语法高亮，支持HTML, XML, CSS, JavaScript, VBScript, ASP, 
+PHP, CSS, Perl/CGI,C/C++, C#, Java, VB, Pascal, 汇编, SQL, Python, NSIS,INI, 
+REG, INF, BAT,DIFF等众多脚本文件。
+ 
+2 支持ANSI，Unicode，UTF-8等编码互换 
+
+3 可以设置无限个书签（9种图标可换）轻松定位 
+
+4 空格，制表符彩色显示，并可互相转换 
+
+5 可以对任意的文本块进行操作，ALT键＋鼠标 
+
+6 对括号｛｝〔〕（）可以高亮配对显示，方便查看(仅对英文符号有效) 
+
+7 可以自定义代码页和字符集，对中文支持良好 
+
+8 使用标准的正则表达式搜索和替换 
+
+9 可以使用半透明模式，超酷！
+
+10 快速放大、缩小页面，不用再设定字体大小 
+
+11 可以指定ESC键最小化Notepad2到系统托盘或者关闭Notepad2  
+
+12 体积小巧，绿色便携。
+
+＃〓〓〓〓§〓〓〓〓〓〓〓▓§【更新说明】§▓〓〓〓〓〓〓〓§〓〓〓〓＃
+                    
+New in Version 4.0.22 (released July 28, 2009)
+
+  - Support for numerous Windows, DOS, ISO, Mac and EBCDIC encodings
+  - Enhanced encoding selection dialog (F9)
+  - "Recode" (F8) to reload file with different source encoding
+  - "Recode file as system default ANSI" (Ctrl+Shift+A)
+  - "Recode file as system default OEM" (Ctrl+Shift+O)
+  - "Recode 7-bit ASCII file as UTF-8" (Shift+F8)
+  - Option to load 7-bit ASCII files as UTF-8 (File, Encoding, Default)
+  - Option to disable encoding tag parsing (File, Encoding, Default)
+  - Issue warning if data can't be converted to selected file encoding
+  - Fix loading of (invalid) Unicode files with embedded null bytes
+  - /e command line switch to specify file source encoding
+  - "Insert Encoding Identifier" (Ctrl+F8)
+  - "Tabify Indent" (Ctrl+Alt+T) and "Untabify Indent" (Ctrl+Alt+S)
+  - "Increase Number" (Ctrl+Alt++) and "Decrease Number" (Ctrl+Alt+-)
+  - Option to auto-reload unmodified files changed by external programs
+  - Hotkey (Alt+F5) and auto-reset option for file change notification
+  - Manual and automatic reloading of files keeps current encoding
+  - Scroll find matches and jump positions away from bottom border
+  - Enabled new Scintilla indent modes for wrapped lines
+  - Option to set any characters as boundaries for word wrap
+  - Allow bigger tab-/indent-widths (256) and long line limit (4096)
+  - Allow setting extra line spacing (through "Default Text" scheme)
+  - Dropping directories displays file open dialog
+  - Consolidated styles to simplify configuration (patch by Kai Liu)
+  - Ensure cursor visibility on any background color (patch by Kai Liu)
+  - Enabled improved Scintilla Pascal lexing module (patch by Kai Liu)
+  - Updated HTML keywords to version 5.0
+  - Remapped "Manage Favorites" hotkey to Alt+F9
+  - Remapped "Invert Case" hotkey to Ctrl+Alt+U
+  - Remapped "Title Case" hotkey to Ctrl+Alt+I
+  - Remapped "Sentence Case" hotkey to Ctrl+Alt+O
+  - Fixed various minor bugs
+  - Notepad2.exe program file no longer compressed with UPX
+  - Updated Scintilla library to 1.79
+                                                                      
+＃〓〓〓〓§〓〓〓〓〓〓〓▓§【绿化特色】§▓〓〓〓〓〓〓〓§〓〓〓〓＃
+
+                             【一丝冰凉】汉化版特色：
+                             
+☆基于官方英文原版制作，原汁原味，修正官方界面多处显示不全的问题。
+
+☆进一步修正界面细节，修改查找和替换对话框，“查找下一个”“查找上一个”的
+上下位置，使其更加方便使用，同时使按钮同意大小，更加美观。
+
+☆在经历长达5个测试版中，【一丝冰凉】始终不断改进，优化，始终在第一时间为大家
+带来精美的汉化版本，此版本进一步优化细节上的翻译，力求完美。
+
+☆增强了右键，包括编辑区添加 “复制全部”，“自动换行”，“新建空白窗口”；
+工具栏上添加“语法方案”
+
+☆对默认配置进行了优化，如：默认情况下自动换行，方便大家使用。
+
+☆特别制作了自动替换还原程序，此程序将替换系统默认记事本为NotePad2，第一次
+  使用请备份，下次使用时千万不要再备份了，否则将无法自动还原。请酌情使用！
+
+☆HA-Notepad2.ini为配置文件,请勿删除,否则默认的优化配置将失效。
+
+☆此版本已修复不能多开的问题。
+
+＃〓〓〓〓§〓〓〓〓〓〓〓▓§【已知问题】§▓〓〓〓〓〓〓〓§〓〓〓〓＃
+               
+* 当出现乱码时请尝试按下 Shift+F12 修复。
+                   
+* 推荐配合无处不在的鼠标手势软件：StrokeIt V0.9.6 汉化版使用，效果更佳。
+   
+＃〓〓〓〓§〓〓〓〓〓〓〓▓§【汉化声明】§▓〓〓〓〓〓〓〓§〓〓〓〓＃
+
+    ★ 此软件所有原版版权归软件开发商所有，本人仅是在原始软件基础上进行简
+体中文化。本人之汉化旨在促进国人对该软件的使用与了解，绝不用于任何商业用
+途，任何组织或个人未经本人允许，请勿将本人的汉化作品用在商业活动或是其它
+赢利性活动中。
+
+    ★ 您使用本人的汉化作品是您的自由选择，本人并不对由此给您的计算机系统
+带来的任何问题负责，您必须自行承担所有可能引起的后果及损失。
+
+    ★ 欢迎转载、传播本人的汉化作品。但在转载或传播过程中【请不要删除和编
+辑本说明和修改文件名,以保证软件的完整性!】
+　　
+    ★ 虽然我个人精力有限，但是我和其他汉化作者不同时是，只要您有问题，本
+人会尽力解决（不包括原软件自身的问题）。
+
+    ★ 要获得更多汉化的更新与修正,请参见黑狼技术论坛 http://bbs.11k.net 专题帖子!
+
+    ★本人所有汉化资源大家可以借鉴并使用，但在汉化说明等相关处注明：
+此版本参照 jieorlin 汉化版。
+
+＃〓〓〓〓§〓〓〓〓〓〓〓§〓〓〓〓〓〓〓〓§〓〓〓〓〓〓〓§〓〓〓〓＃
+
+╭⌒╮¤           ┈.o携手汉化
+╭╭ ⌒╮ ●╭○╮ 爱我中华┈.      感谢使用【一丝冰凉】绿化软件
+╰ ----╯/█∨▓\       ▂▅█      
+▆▅▃▂_ ∏~~∏▂▃▆████      一丝冰凉，不懈努力，追求完美!
+
+
+＃〓〓〓〓§〓〓〓〓〓〓〓§〓〓〓〓〓〓〓〓§〓〓〓〓〓〓〓§〓〓〓〓＃ 
+          ↓              ↓                ↓              ↓ 
+        ☆★☆          ☆★☆            ☆★☆          ☆★☆ 
+      ☆  最  ☆      ☆  美  ☆        ☆  中  ☆      ☆  文  ☆ 
+        ☆★☆          ☆★☆            ☆★☆          ☆★☆ 
+          ↓              ↓                ↓              ↓ 
+          ※              ※                ※              ※ 
+
+
+
